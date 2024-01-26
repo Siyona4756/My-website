@@ -1,0 +1,18 @@
+.line{
+    height: 5px;
+    width: 200px;
+    margin: 10px;
+    background-color: black;
+    
+#app{
+    background-color:lavenderblush
+}
+#game{
+    background-color: lavender;
+}
+#bot{
+     background-color: cornflowerblue;
+}
+body{
+    text-align: center;
+}
